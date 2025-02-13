@@ -1,6 +1,6 @@
-title: Name of course
-description: SciLifeLab Course
-repository: SciLifeLab-Training/scilifelab-training-template
+title: Here is the name of the course
+description: Description of the Course
+repository: AI4PrecisionOmics/Omics_DataDriven_precisionHealth
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
