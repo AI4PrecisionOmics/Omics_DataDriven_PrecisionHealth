@@ -5,29 +5,32 @@ date: today
 ---
 
 ::: {.callout-tip}
-### Learning outcomes
 
-By the end of this session, learners will be able to:
-
-- Present the major available omics
-- Learn to...
+### Summary 
+The field of omic data analysis has been rapidly evolving during the last two decades.
+As first module of the course, we will take a journey back in time to retrace the techonogical advances that led to the variety of omic data that is available nowadays.
+Throughout this module, the students will:
+- Obtain a comprehensive overview of the available omics
+- Learn which omic may be more suitable for a given research question
+- Learn how to analyze several types of omics
 :::
 
 ## Morning lecture
-
-- Overview of the omics fields: evolution and trends in omics technologies
-- Core omics: Genomics, Epigenetics, Transcriptomics, Proteomics, Metabolomics
-- Recent advances in omics: Single-cell (2012) and Spatial omics (2022)
+We will start the lecture with a brief historical review of the omics field.
+Commonly used omic technologies, such as genomics, epigenetics, transcriptomics, proteomics and metabolomics, will be presented throughtout the lecture.
+We will also talk about the present trends of omics technologies and possible future developments.
+In particular, we will mention recent advances such as single-cell (2012) and spatial omics (2022) data.
 
 ## Afternoon workshop
-
-- Introduction to basic pipelines for the analysis of omic data
+In this first workshop we will present bioinformatic pipelines for the analysis of some common omics.
+We will mainly focus on the initial processing and quality control (downstream analysis will be covered in the following modules).
+While some of same principles can found in the analysis of multiple omics, some omics require special software/packages; our aim with this workshop is to teach which tools should be used depending on the omic.
+We will provide basic pipelines for the analysis of different omic data, such as whole-genome sequencing, single-cell RNA-seq and Olink proteomics.
 
 ## Lectures and Materials
-
-Materials will be uploaded before the start of the course.
-
+A markdown tutorial will be uploaded before the workshop.
 
 ## Contributors
-
-- John Doe <a href="https://orcid.org/0009-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Alberto Zenere <a href="https://orcid.org/0000-0001-5791-7686" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Xingyue Wang <a href="https://orcid.org/0000-0002-4960-5882" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
