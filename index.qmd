@@ -1,6 +1,6 @@
 ---
 title: "Course Syllabus"
-author: "John Doe"
+author: "Wen Zhong"
 date: today
 ---
 
@@ -8,53 +8,61 @@ date: today
 
 ## About
 
-**Organizers:** 	                SciLifeLab  
-**Date:**	   	                    Month, date, year  
-**Location:**		 			    SciLifeLab Solna, Air&Fire  
-**Suggested number of credits:** 	X hp  
-**Enrollment opens:**				Month day, year  
-**Enrollment closes:**				Month day, year     
+**Organizers:** 	                SciLifeLab and Linköping University  
+**Date:**	   	                   October, 2025 (week 41 and 1 day on week 44) 
+**Location:**		 			    Linköping University (Campus US) and Zoom
+**Suggested number of credits:** 	4.5 hp  
+**Enrollment opens:**				Month day, 2025  
+**Enrollment closes:**				Month day, 2025     
 **Course fee:**				        XX   
 
 :::
 
-Course lead: John Doe (SciLifeLab) <a href="https://orcid.org/0000-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+Course lead: Wen Zhong (SciLifeLab, DDLS fellow, LiU) <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
-Course contact: john.doe@scilifelab.se
+Course contact: wen.zhong@scilifelab.se
+
+Registration form: XXX
 
 ## Course description
 
-Short description of the course
+This PhD course provides an interdisciplinary exploration of omics technologies, AI and data-driven precision health, merging theories with hands-on practice. Ideal for students interested in the intersection of AI, bioinformatics, and personalized medicine, the course delves into AI and machine learning techniques for analyzing multi-omics data, enhancing disease diagnosis, and optimizing treatment strategies. Ethical, legal, and social considerations of AI in healthcare are also examined to ensure responsible use of these technologies.
 
-## Learning Objectives and Learning Outcomes
-#### Learning Objectives
+## Learning Outcomes
+#### Knowledge and understanding
 
-- To get acquainted with...
-- To be able to...
+- Describe the principles of AI as applied to precision medicine, and identify the healthcare challenges these technologies aim to address.
+- Describe the roles of AI technologies in analyzing biomedical data for disease diagnosis, treatment optimization, and the development of personalized healthcare solutions.
+- Understand the differentiate between the capabilities and limitations of various AI and ML approaches in the context of precision medicine, including supervised and unsupervised learning, neural networks, and deep learning.
+- Describe the significance of multi-omics data analysis in precision medicine and how AI technologies facilitate the interpretation of complex biological information.
+- Discuss the ethical, legal, and social implications of employing AI in healthcare, focusing on privacy, data security, and equitable access to medical innovations.
 
-#### Learning Outcomes
+#### Competence and skills
 
-By the end of this course, learners will be able to:
+- Apply state-of-the-art methods to integrate multi-omics data.
+- Apply AI and ML approaches to address precision medicine problems.
+- Analyze and interpret biomedical data using AI-driven methods.
+- Apply AI technologies to propose solutions to current problems in precision medicine.
 
-- Name...
-- Describe...
+#### Judgement and approach
+
+- Demonstrate a critical approach to the selection and application of AI and ML methods in biomedical research, ensuring the reliability and validity of findings.
 
 ## Target audience and course prerequisites
 
-**Target audience:** XXX    
-**Course prerequisites:** none   
-**Level:** beginner/intermediate  
+**Target audience:** PhD students with ongoing or planned projects involving omics data analysis    
+**Course prerequisites:** Second-cycle degree, Basic programming skills
 
 
 ## Forms of instruction and examination  
 
 **Forms of instruction:** In-person, digital communications  
-**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars  
+**Forms of study:** self-studies (incl. independent work), group activities, lectures, discussion seminars, and workshop
 **Language:** English    
-**Examination:** Active participation in all sessions and group assignments.   
+**Examination:** Active participation in all sessions and group assignments. The final examination is a group-based data analysis project with an oral presentation.   
 
 
 
 ## Additional notes  
 
-- Other useful information  
+- Please install the programming tools (R, Python) before class and bring your computer to the workshop. 
