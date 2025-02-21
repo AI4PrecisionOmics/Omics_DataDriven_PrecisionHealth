@@ -1,0 +1,10 @@
+---
+title: "Examination: Hands-on project and data analysis"
+author: "John Doe"
+date: today
+---
+
+
+## Contributors
+
+- John Doe <a href="https://orcid.org/0009-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
