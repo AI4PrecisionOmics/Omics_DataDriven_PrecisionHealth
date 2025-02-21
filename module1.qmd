@@ -1,6 +1,6 @@
 ---
 title: "Module 1: Introduction to omics technologies"
-author: "John Doe"
+author: "Alberto Zenere"
 date: today
 ---
 
