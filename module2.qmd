@@ -1,5 +1,5 @@
 ---
-title: "Module 2"
+title: "Module 2: Omics integration"
 author: "John Doe"
 date: today
 ---
@@ -13,9 +13,18 @@ By the end of this session, learners will be able to:
 - Define...
 :::
 
-## Lectures and Materials
+## Morning lecture
 
-Links to video recordings and session material
+- The need of integrative omics
+- Key methodologies for multi-omics integration
+
+## Afternoon workshop
+
+- State-of-the-art tools to integrate multi-omics data
+
+## Materials
+
+Materials will be uploaded before the start of the course.
 
 
 ## Contributors
