@@ -1,21 +1,31 @@
 ---
-title: "Module 1"
+title: "Module 1: Introduction to omics technologies"
 author: "John Doe"
 date: today
 ---
 
 ::: {.callout-tip}
-### Learning Objectives
+### Learning outcomes
 
 By the end of this session, learners will be able to:
 
-- List...
-- Define...
+- Present the major available omics
+- Learn to...
 :::
+
+## Morning lecture
+
+- Overview of the omics fields: evolution and trends in omics technologies
+- Core omics: Genomics, Epigenetics, Transcriptomics, Proteomics, Metabolomics
+- Recent advances in omics: Single-cell (2012) and Spatial omics (2022)
+
+## Afternoon workshop
+
+- Introduction to basic pipelines for the analysis of omic data
 
 ## Lectures and Materials
 
-Links to video recordings and session material
+Materials will be uploaded before the start of the course.
 
 
 ## Contributors
