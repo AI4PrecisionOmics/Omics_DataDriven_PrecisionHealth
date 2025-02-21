@@ -1,0 +1,33 @@
+---
+title: "Module 4: Translational omics and precision health"
+author: "John Doe"
+date: today
+---
+
+::: {.callout-tip}
+### Learning Objectives
+
+By the end of this session, learners will be able to:
+
+- List...
+- Define...
+:::
+
+## Morning lecture
+
+- Biomarker discovery
+- Population health and precision health
+- Drug discovery and development
+
+## Afternoon seminar
+
+- AI applications
+
+## Materials
+
+Materials will be uploaded before the start of the course.
+
+
+## Contributors
+
+- John Doe <a href="https://orcid.org/0009-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
