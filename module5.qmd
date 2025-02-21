@@ -5,19 +5,9 @@ date: today
 ---
 
 ::: {.callout-tip}
-### Learning Objectives
 
-By the end of this session, learners will be able to:
-
-- List...
-- Define...
-:::
-
-## Morning lecture
-
-## Materials
-
-Materials will be uploaded before the start of the course.
+### Summary
+For this module, we have invitated an external speaker to bring a real-life example of successfull applications of AI in the healthcare.
 
 
 ## Contributors
