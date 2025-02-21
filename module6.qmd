@@ -5,21 +5,9 @@ date: today
 ---
 
 ::: {.callout-tip}
-### Learning Objectives
 
-By the end of this session, learners will be able to:
-
-- List...
-- Define...
-:::
-
-## Morning lecture
-
-
-## Materials
-
-Materials will be uploaded before the start of the course.
-
+### Summary
+For this module, we have invited an external speaker who will talk about the ethical, legal and social implications of translational omics.
 
 ## Contributors
 
