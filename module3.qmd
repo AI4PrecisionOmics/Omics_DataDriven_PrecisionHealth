@@ -1,13 +1,12 @@
 ---
 title: "Module 3: Principles of artificial intelligence, machine learning and network analysis"
-author: "John Doe"
+author: "Alberto Zenere"
 date: today
 ---
 
 ::: {.callout-tip}
-### Learning Objectives
-
-By the end of this session, learners will be able to:
+### Summary
+A massive number of tools are available for bio
 
 - List...
 - Define...
