@@ -29,7 +29,7 @@ During the workshop, we will present the main R/Python packages that can be used
 Examples with code will be provided.
 
 ## Seminar
-The students will be given a paper to read, that will be discussed during the seminar.
+The students will be given a paper on the topic of the module to read, that will be discussed during the seminar.
 Active partcipation during the seminar is a requirement to pass.
 
 ## Materials
