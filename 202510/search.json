@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "module1.html",
+    "href": "module1.html",
+    "title": "Module 1: Introduction to omics technologies",
+    "section": "",
+    "text": "Learning outcomes\n\n\n\nBy the end of this session, learners will be able to:\n\nPresent the major available omics\nLearn to…"
+  },
+  {
+    "objectID": "module1.html#morning-lecture",
+    "href": "module1.html#morning-lecture",
+    "title": "Module 1: Introduction to omics technologies",
+    "section": "Morning lecture",
+    "text": "Morning lecture\n\nOverview of the omics fields: evolution and trends in omics technologies\nCore omics: Genomics, Epigenetics, Transcriptomics, Proteomics, Metabolomics\nRecent advances in omics: Single-cell (2012) and Spatial omics (2022)"
+  },
+  {
+    "objectID": "module1.html#afternoon-workshop",
+    "href": "module1.html#afternoon-workshop",
+    "title": "Module 1: Introduction to omics technologies",
+    "section": "Afternoon workshop",
+    "text": "Afternoon workshop\n\nIntroduction to basic pipelines for the analysis of omic data"
+  },
+  {
+    "objectID": "module1.html#lectures-and-materials",
+    "href": "module1.html#lectures-and-materials",
+    "title": "Module 1: Introduction to omics technologies",
+    "section": "Lectures and Materials",
+    "text": "Lectures and Materials\nMaterials will be uploaded before the start of the course."
+  },
+  {
+    "objectID": "module1.html#contributors",
+    "href": "module1.html#contributors",
+    "title": "Module 1: Introduction to omics technologies",
+    "section": "Contributors",
+    "text": "Contributors\n\nJohn Doe"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Course Syllabus",
+    "section": "",
+    "text": "About\n\n\n\nOrganizers: SciLifeLab\nDate: Month, date, year\nLocation: SciLifeLab Solna, Air&Fire\nSuggested number of credits: X hp\nEnrollment opens: Month day, year\nEnrollment closes: Month day, year\nCourse fee: XX\nCourse lead: John Doe (SciLifeLab)\nCourse contact: john.doe@scilifelab.se"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Course Syllabus",
+    "section": "Course description",
+    "text": "Course description\nShort description of the course"
+  },
+  {
+    "objectID": "index.html#learning-objectives-and-learning-outcomes",
+    "href": "index.html#learning-objectives-and-learning-outcomes",
+    "title": "Course Syllabus",
+    "section": "Learning Objectives and Learning Outcomes",
+    "text": "Learning Objectives and Learning Outcomes\n\nLearning Objectives\n\nTo get acquainted with…\nTo be able to…\n\n\n\nLearning Outcomes\nBy the end of this course, learners will be able to:\n\nName…\nDescribe…"
+  },
+  {
+    "objectID": "index.html#target-audience-and-course-prerequisites",
+    "href": "index.html#target-audience-and-course-prerequisites",
+    "title": "Course Syllabus",
+    "section": "Target audience and course prerequisites",
+    "text": "Target audience and course prerequisites\nTarget audience: XXX\nCourse prerequisites: none\nLevel: beginner/intermediate"
+  },
+  {
+    "objectID": "index.html#forms-of-instruction-and-examination",
+    "href": "index.html#forms-of-instruction-and-examination",
+    "title": "Course Syllabus",
+    "section": "Forms of instruction and examination",
+    "text": "Forms of instruction and examination\nForms of instruction: In-person, digital communications\nForms of study: self-studies (incl. independent work), group activities, lectures, and discussion seminars\nLanguage: English\nExamination: Active participation in all sessions and group assignments."
+  },
+  {
+    "objectID": "index.html#additional-notes",
+    "href": "index.html#additional-notes",
+    "title": "Course Syllabus",
+    "section": "Additional notes",
+    "text": "Additional notes\n\nOther useful information"
+  },
+  {
+    "objectID": "module6.html",
+    "href": "module6.html",
+    "title": "Module 6: Ethical, legal and social implications",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nList…\nDefine…"
+  },
+  {
+    "objectID": "module6.html#morning-lecture",
+    "href": "module6.html#morning-lecture",
+    "title": "Module 6: Ethical, legal and social implications",
+    "section": "Morning lecture",
+    "text": "Morning lecture"
+  },
+  {
+    "objectID": "module6.html#materials",
+    "href": "module6.html#materials",
+    "title": "Module 6: Ethical, legal and social implications",
+    "section": "Materials",
+    "text": "Materials\nMaterials will be uploaded before the start of the course."
+  },
+  {
+    "objectID": "module6.html#contributors",
+    "href": "module6.html#contributors",
+    "title": "Module 6: Ethical, legal and social implications",
+    "section": "Contributors",
+    "text": "Contributors\n\nJohn Doe"
+  },
+  {
+    "objectID": "module3.html",
+    "href": "module3.html",
+    "title": "Module 3: Principles of artificial intelligence, machine learning and network analysis",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nList…\nDefine…"
+  },
+  {
+    "objectID": "module3.html#morning-lecture",
+    "href": "module3.html#morning-lecture",
+    "title": "Module 3: Principles of artificial intelligence, machine learning and network analysis",
+    "section": "Morning lecture",
+    "text": "Morning lecture\n\nClustering, regression and high-dimensionality reduction\nSupervised, unsupervised, reinforcement machine learning, network analysis\nGenerative AI, transfer learning explainable AI"
+  },
+  {
+    "objectID": "module3.html#afternoon-workshop",
+    "href": "module3.html#afternoon-workshop",
+    "title": "Module 3: Principles of artificial intelligence, machine learning and network analysis",
+    "section": "Afternoon workshop",
+    "text": "Afternoon workshop"
+  },
+  {
+    "objectID": "module3.html#seminar",
+    "href": "module3.html#seminar",
+    "title": "Module 3: Principles of artificial intelligence, machine learning and network analysis",
+    "section": "Seminar",
+    "text": "Seminar"
+  },
+  {
+    "objectID": "module3.html#materials",
+    "href": "module3.html#materials",
+    "title": "Module 3: Principles of artificial intelligence, machine learning and network analysis",
+    "section": "Materials",
+    "text": "Materials\nMaterials will be uploaded before the start of the course."
+  },
+  {
+    "objectID": "module3.html#contributors",
+    "href": "module3.html#contributors",
+    "title": "Module 3: Principles of artificial intelligence, machine learning and network analysis",
+    "section": "Contributors",
+    "text": "Contributors\n\nJohn Doe"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Date\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:00 - 10:15\nModule 1\n\n\n10:15 - 10:45\nCoffee break\n\n\n10:45 - 12:00\nModule 2\n\n\n12:00 - 13:00\nLunch\n\n\n\n\n\n\nDate\n\n\n\n\n\n\n\nTime\nTopic\n\n\n\n\n09:00 - 12:00\nDiscussion session"
+  },
+  {
+    "objectID": "module2.html",
+    "href": "module2.html",
+    "title": "Module 2: Omics integration",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nList…\nDefine…"
+  },
+  {
+    "objectID": "module2.html#morning-lecture",
+    "href": "module2.html#morning-lecture",
+    "title": "Module 2: Omics integration",
+    "section": "Morning lecture",
+    "text": "Morning lecture\n\nThe need of integrative omics\nKey methodologies for multi-omics integration"
+  },
+  {
+    "objectID": "module2.html#afternoon-workshop",
+    "href": "module2.html#afternoon-workshop",
+    "title": "Module 2: Omics integration",
+    "section": "Afternoon workshop",
+    "text": "Afternoon workshop\n\nState-of-the-art tools to integrate multi-omics data"
+  },
+  {
+    "objectID": "module2.html#materials",
+    "href": "module2.html#materials",
+    "title": "Module 2: Omics integration",
+    "section": "Materials",
+    "text": "Materials\nMaterials will be uploaded before the start of the course."
+  },
+  {
+    "objectID": "module2.html#contributors",
+    "href": "module2.html#contributors",
+    "title": "Module 2: Omics integration",
+    "section": "Contributors",
+    "text": "Contributors\n\nJohn Doe"
+  },
+  {
+    "objectID": "module4.html",
+    "href": "module4.html",
+    "title": "Module 4: Translational omics and precision health",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nList…\nDefine…"
+  },
+  {
+    "objectID": "module4.html#morning-lecture",
+    "href": "module4.html#morning-lecture",
+    "title": "Module 4: Translational omics and precision health",
+    "section": "Morning lecture",
+    "text": "Morning lecture\n\nBiomarker discovery\nPopulation health and precision health\nDrug discovery and development"
+  },
+  {
+    "objectID": "module4.html#afternoon-seminar",
+    "href": "module4.html#afternoon-seminar",
+    "title": "Module 4: Translational omics and precision health",
+    "section": "Afternoon seminar",
+    "text": "Afternoon seminar\n\nAI applications"
+  },
+  {
+    "objectID": "module4.html#materials",
+    "href": "module4.html#materials",
+    "title": "Module 4: Translational omics and precision health",
+    "section": "Materials",
+    "text": "Materials\nMaterials will be uploaded before the start of the course."
+  },
+  {
+    "objectID": "module4.html#contributors",
+    "href": "module4.html#contributors",
+    "title": "Module 4: Translational omics and precision health",
+    "section": "Contributors",
+    "text": "Contributors\n\nJohn Doe"
+  },
+  {
+    "objectID": "Examination.html",
+    "href": "Examination.html",
+    "title": "Examination: Hands-on project and data analysis",
+    "section": "",
+    "text": "John Doe"
+  },
+  {
+    "objectID": "Examination.html#contributors",
+    "href": "Examination.html#contributors",
+    "title": "Examination: Hands-on project and data analysis",
+    "section": "",
+    "text": "John Doe"
+  },
+  {
+    "objectID": "module5.html",
+    "href": "module5.html",
+    "title": "Module 5: Applications of AI in healthcare",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nList…\nDefine…"
+  },
+  {
+    "objectID": "module5.html#morning-lecture",
+    "href": "module5.html#morning-lecture",
+    "title": "Module 5: Applications of AI in healthcare",
+    "section": "Morning lecture",
+    "text": "Morning lecture"
+  },
+  {
+    "objectID": "module5.html#materials",
+    "href": "module5.html#materials",
+    "title": "Module 5: Applications of AI in healthcare",
+    "section": "Materials",
+    "text": "Materials\nMaterials will be uploaded before the start of the course."
+  },
+  {
+    "objectID": "module5.html#contributors",
+    "href": "module5.html#contributors",
+    "title": "Module 5: Applications of AI in healthcare",
+    "section": "Contributors",
+    "text": "Contributors\n\nJohn Doe"
+  },
+  {
+    "objectID": "teachers.html",
+    "href": "teachers.html",
+    "title": "Teachers",
+    "section": "",
+    "text": "Wen Zhong []https://orcid.org/0000-0002-7422-6104)  \n\nAssistant Professor, Linköping, Department of Biomedical and Clinical Sciences (BKV)\n\n\n\n\n\nWen Zhong mainly focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies/tools for precision medicine. The aim is to investigate the molecular biomarkers for the estimation of disease risks, early diagnosis of disease, stratification of drug treatment response, disease progression monitoring and the stratification of patients.\n\n\n\n\n\nJing Wang   \n\nPostdoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)\n\n\n\n\n\nJing Wang is …\n\n\n\n\n\nAlberto Zenere   \n\nPostodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)\n\n\n\n\n\nAlberto Zenere is …\n\n\n\n\n\nXiangyu Qiao   \n\nPostodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)\n\n\n\n\n\nXiangyu Qiao is …\n\n\n\n\n\nXingyue Wang   \n\nPhD student, Linköping, Department of Biomedical and Clinical Sciences (BKV)\n\n\n\n\n\nXingyue Wang is …\n\n\n\n\n\nSwapnali Barde   \n\nPostodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)\n\n\n\n\n\nSwapnali Barde is …"
+  }
+]
