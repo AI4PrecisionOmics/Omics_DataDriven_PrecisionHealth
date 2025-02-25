@@ -11,6 +11,7 @@ Analyzing paired omics generated from the same biological samples promises to gi
 However, there remain several practical questions on how to integrate multi-omics effectively. 
 In this module we will present what strategies are currently used by researchers for this purpose.
 After this module, the students will:
+
 - Know what are the advantages of multi-omics approaches.
 - Be able to implement state-of-the-art analyses for multi-omics integration.
 :::
