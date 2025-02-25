@@ -1,6 +1,6 @@
 ---
 title: "Module 6: Ethical, legal and social implications"
-author: "John Doe"
+author: "Wen Zhong"
 date: today
 ---
 
