@@ -1,6 +1,6 @@
 ---
 title: "Module 5: Applications of AI in healthcare"
-author: "John Doe"
+author: "Wen Zhong"
 date: today
 ---
 
