@@ -1,6 +1,6 @@
 ---
 title: "Module 2: Omics integration"
-author: "Alberto Zenere"
+author: "Wen Zhong"
 date: today
 ---
 
