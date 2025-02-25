@@ -1,6 +1,6 @@
 ---
 title: "Hands-on project and data analysis"
-author: "John Doe"
+author: "Wen Zhong"
 date: today
 ---
 
