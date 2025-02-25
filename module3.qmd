@@ -1,6 +1,6 @@
 ---
 title: "Module 3: Principles of artificial intelligence, machine learning and network analysis"
-author: "Alberto Zenere"
+author: "Wen Zhong"
 date: today
 ---
 
