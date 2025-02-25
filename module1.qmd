@@ -1,6 +1,6 @@
 ---
 title: "Module 1: Introduction to omics technologies"
-author: "Alberto Zenere"
+author: "Wen Zhong"
 date: today
 ---
 
