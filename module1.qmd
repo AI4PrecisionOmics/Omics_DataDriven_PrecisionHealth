@@ -10,6 +10,7 @@ date: today
 The field of omic data analysis has been rapidly evolving during the last two decades.
 Moreover, the importance of bioinformatics in biomedical research has steadily continued to increase, becoming an almost a required skill for any researcher in the field.
 Throughout this module, the students will:
+
 - Obtain a comprehensive overview of the available omics.
 - Learn which omic may be more suitable for a given research question.
 - Learn how to analyze several types of omics.
@@ -31,6 +32,7 @@ We will provide basic pipelines for the analysis of different omic data, such as
 A markdown tutorial will be uploaded before the workshop.
 
 ## Contributors
+
 - Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - Alberto Zenere <a href="https://orcid.org/0000-0001-5791-7686" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - Xingyue Wang <a href="https://orcid.org/0000-0002-4960-5882" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
