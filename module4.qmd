@@ -1,6 +1,6 @@
 ---
 title: "Module 4: Translational omics and precision health"
-author: "John Doe"
+author: "Wen Zhong"
 date: today
 ---
 
